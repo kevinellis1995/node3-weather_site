@@ -1,0 +1,36 @@
+body{
+    color: #333333;
+    text-align: center;
+    font-family: arial;
+}
+h1{
+    font-size: 3rem;
+    color: #4e4483;
+}
+.abtImg{
+    width: 35%;;
+}
+.footer{
+    width: 100%;
+    border-top: 1px solid #888888;
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+}
+header a {
+    color: #8888e2;
+    margin: 0 2rem;
+    text-decoration: none;
+}
+
+input{
+    border: 1px solid #cccccc;
+    padding: .5rem;
+}
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #6c885a;
+    padding: .5rem;
+    color: white;
+}
